@@ -16,15 +16,14 @@
 <a href=https://github.com/miemiemmmm/miemiemmmm>Yang's Github</a>
 <a href=http://www.biochem-caflisch.uzh.ch/members/Zhang/Yang/9999>Yang's page in Caflisch lab</a>
 
-<p>
-    <audio id="loop-limited" controls="controls" autoplay style="width: 6em;height:20px;"><source src="https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3" type="audio/ogg" />
-    <source src="https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3" type="audio/mpeg" /></audio><br />
+<audio id="loop-limited" controls="controls" autoplay style="width: 6em;height:20px;"><source src="https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3" type="audio/ogg" />
+<source src="https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3" type="audio/mpeg" /></audio><br />
 <script>
     var loopLimit = 5;
     var loopCounter = 0;
     document.getElementById('loop-limited').addEventListener('ended', function(){if (loopCounter < loopLimit){this.currentTime = 0;this.play();loopCounter++;}
-}, false);</script>
-</p>
+}, false);
+</script>
 
 <!---
 miemiemmmm/miemiemmmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
