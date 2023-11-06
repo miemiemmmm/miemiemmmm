@@ -4,6 +4,9 @@
 - Actively exploring the convergence of physics-based and data-driven methods in drug discovery.
 - Proactively comparing oranges 🍊 with apples 🍎 and trying to characterize the differences between them.
 - A string of apples 🍎 means that the tree is likely to be an apple tree 🌳, but it is not always the case.
+- Could be a basket 🧺 of apples hanging on a tree 🌳.
+- Could also be someone having picnic under the tree 🌳 with apple🍎, orange🍊, banana🍌, and grapes🍇. 
+- But if a tree showcases apple blossoms swaying in the wind🌬️, young apples maturing under moonlight🌙, fledgling fruits enduring rain🌧️, and emits a rosy fragrance🌸, it's probably an apple tree 🍎🌳.
 - This is also the same case for drug discovery.
 
 ```
