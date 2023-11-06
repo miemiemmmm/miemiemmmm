@@ -1,5 +1,5 @@
 # Yang Zhang
-- Hi, This is Yang Zhang 👋🏻 (@miemiemmmm 🐑🐏🐑🐏)
+- Hi, This is Yang Zhang 👋🏻 ([miemiemmmm](https://github.com/miemiemmmm) 🐑🐏🐑🐏)
 - I’m interested in Computer-aided Drug Design with the assistance of molecular dynamics simulations and machine learning.
 - Actively exploring the convergence of physics-based and data-driven methods in drug discovery.
 - Proactively comparing oranges 🍊 with apples 🍎 and trying to characterize the differences between them.
