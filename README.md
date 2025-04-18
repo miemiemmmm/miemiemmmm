@@ -34,11 +34,7 @@ Mac             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5
 
 💬Also find me at:
 
-[Linkedin](https://www.linkedin.com/in/yang-zhang-947953172/)
-
-[Github](https://github.com/miemiemmmm/miemiemmmm)
-
-[Caflisch Lab](http://www.biochem-caflisch.uzh.ch/members/Zhang/Yang/9999)
+[Linkedin](https://www.linkedin.com/in/yang-zhang-947953172/) | [Github](https://github.com/miemiemmmm/miemiemmmm) | [ORCID](https://orcid.org/0000-0003-0801-8064) | [Lindahl Lab](https://www.biophysics.se/index.php/members/yang-zhang/)
 
 
 
