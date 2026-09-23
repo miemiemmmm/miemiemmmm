@@ -54,6 +54,7 @@
     nav ul a:hover { color: var(--text); }
     @media (max-width: 480px) {
       nav ul { gap: 12px; }
+      nav .brand-name { display: none; }
       nav ul a { font-size: 14px; }
     }
 
@@ -107,7 +108,7 @@
 <body>
   <nav>
     <div class="wrap">
-      <a class="brand" href="#top">🐑 miemiemmmm</a>
+      <a class="brand" href="#top">🐑 <span class="brand-name">miemiemmmm</span></a>
       <ul>
         <li><a href="#about">About</a></li>
         <li><a href="#toolbox">Toolbox</a></li>
